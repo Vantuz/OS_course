@@ -9,3 +9,9 @@ badlinks
 sigusr
 !sigusr/sigusr.c
 !sigusr/Makefile
+midtermsh
+!midtermsh/Makefile
+!midtermsh/midtermsh.cpp
+simplesh/*
+!simplesh/Makefile
+!simplesh/simplesh.cpp
